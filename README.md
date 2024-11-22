@@ -9,3 +9,5 @@ To Do List:
 Add additional initial enumeration for web app
 Combine with Infrastructure - provide an option for webapp or infrastructure recon
 Test, decide on improvements from then on.
+
+Fix the world too, will try that at some point.
